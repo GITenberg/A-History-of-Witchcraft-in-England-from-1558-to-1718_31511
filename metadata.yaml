@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35282'
     url: http://www.gutenberg.org/2009/agents/35282
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31511#A-History-of-Witchcraft-in-England-from-1558-to-1718
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2010-03-05'
 gutenberg_type: Text
